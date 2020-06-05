@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\obj\Debug\netcoreapp3.1\calculadoraidade.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\obj\Debug\netcoreapp3.1\calculadoraidade.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\obj\Debug\netcoreapp3.1\calculadoraidade.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\bin\Debug\netcoreapp3.1\calculadoraidade.exe
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\bin\Debug\netcoreapp3.1\calculadoraidade.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\bin\Debug\netcoreapp3.1\calculadoraidade.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\bin\Debug\netcoreapp3.1\calculadoraidade.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\bin\Debug\netcoreapp3.1\calculadoraidade.dll
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\bin\Debug\netcoreapp3.1\calculadoraidade.pdb
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\obj\Debug\netcoreapp3.1\calculadoraidade.dll
+C:\Users\Maria Luiza\Documents\Luiza\calculadoraidade\calculadoraidade\obj\Debug\netcoreapp3.1\calculadoraidade.pdb
